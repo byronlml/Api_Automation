@@ -12,4 +12,4 @@ Feature: Get all the products using API
     Then I verify that the rate of the first product is "<FirstProductRate>"
     Examples:
       | FirstProductRate |
-      | 3.9.0              |
+      | 3.9              |
