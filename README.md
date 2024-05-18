@@ -7,7 +7,7 @@ Follow the instructions below to install the project versions.
 # Java
 `1.8.0_371`
 # Open_JDK
-`11.0.20`
+`20`
 # Maven
 `POM FILE`
 
