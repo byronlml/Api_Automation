@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-m
-=src/test/java/co/com/apitesting/project/runner/RunnerApi.java,6\5\65d14b75488d5d5e5c86585bd31acd70cf877a11
 n
 >src/main/java/co/com/apitesting/project/pages/ProductsApi.java,1\1\11383f753253b12620b4d4763bf1c3715bab3dfb
 |
@@ -22,8 +20,6 @@ Nsrc/test/java/co/com/apitesting/project/stepsdefinitions/ProductApiDelete.java
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 k
 ;src/main/java/co/com/apitesting/project/pages/BasePage.java,f\e\fe7f0173cfdc1acb9491a3b6efc0d9abdbe5ba45
-j
-:src/test/java/co/com/apitesting/project/runner/Runner.java,4\c\4c3be6ec917bbfc29eb2a405be40577efa52ad71
 n
 >src/test/java/co/com/apitesting/project/runner/RunnerTest.java,6\d\6d769a95eb351e04a3c48fe726f3e3e618824cdf
 9
